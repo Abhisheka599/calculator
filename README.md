@@ -13,4 +13,4 @@ To build, simply:
 
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
-
+[![Build Status](https://dev.azure.com/abhishekanand133/Az400-repo/_apis/build/status/Abhisheka599.calculator?branchName=master)](https://dev.azure.com/abhishekanand133/Az400-repo/_build/latest?definitionId=1&branchName=master)
